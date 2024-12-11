@@ -1,0 +1,7 @@
+
+# Requirements for core
+mkdocs-material~=9.5.46
+
+# Requirements for plugins
+mkdocs-material-adr~=1.1.1
+mkdocs_macros_adr_summary~=1.0.0

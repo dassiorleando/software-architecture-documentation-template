@@ -1,0 +1,12 @@
+.new-custom-class {
+    color: red;
+}
+
+/* delete this block to enable 'table of contents' for pages */
+.md-sidebar--secondary {
+    display: none !important;
+}
+
+.md-grid {
+    max-width: 90% !important;
+}
