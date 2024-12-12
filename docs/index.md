@@ -1,6 +1,6 @@
 # Software Architecture Documentation Template
 
-The sample this documentation is based on can be downloaded at [arc42.org](https://arc42.org/download).
+You can access the generated documentation [here (demo)](https://dassiorleando.github.io/software-architecture-documentation-template/), it's based on a sample you can download at [arc42.org](https://arc42.org/download).
 
 ## Capabilities
 
@@ -32,5 +32,5 @@ The sample this documentation is based on can be downloaded at [arc42.org](https
 
 ## TODO
 
-* Fix the GitHub Page link.
-* Generate a PDF version of the software architecture documentation.
+- [x] Fix the GitHub Page link.
+- [ ] Generate a PDF version of the software architecture documentation.

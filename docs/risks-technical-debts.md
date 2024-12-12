@@ -4,16 +4,25 @@ title: Risks and Technical Debts
 
 # Risks and Technical Debts
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx.
+**Contents**
 
-## XXXXXXXXXXX
+A list of identified technical risks or technical debts, ordered by
+priority
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+**Motivation**
 
-## YYYYYYYYYYY
+"Risk management is project management for grown-ups" (Tim Lister,
+Atlantic Systems Guild.)
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+This should be your motto for systematic detection and evaluation of
+risks and technical debts in the architecture, which will be needed by
+management stakeholders (e.g. project managers, product owners) as part
+of the overall risk analysis and measurement planning.
 
-## ZZZZZZZZZZZZ
+**Form**
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+List of risks and/or technical debts, probably including suggested
+measures to minimize, mitigate or avoid risks or reduce technical debts.
+
+See [Risks and Technical Debt](https://docs.arc42.org/section-11/) in
+the arc42 documentation.

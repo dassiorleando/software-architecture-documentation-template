@@ -4,16 +4,62 @@ title: Runtime View
 
 # Runtime View
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx.
+**Contents**
 
-## Scenario 1
+The runtime view describes concrete behavior and interactions of the
+system's building blocks in form of scenarios from the following areas:
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+-   important use cases or features: how do building blocks execute
+    them?
 
-## Scenario 2
+-   interactions at critical external interfaces: how do building blocks
+    cooperate with users and neighboring systems?
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+-   operation and administration: launch, start-up, stop
 
-## Scenario 3
+-   error and exception scenarios
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+Remark: The main criterion for the choice of possible scenarios
+(sequences, workflows) is their **architectural relevance**. It is
+**not** important to describe a large number of scenarios. You should
+rather document a representative selection.
+
+**Motivation**
+
+You should understand how (instances of) building blocks of your system
+perform their job and communicate at runtime. You will mainly capture
+scenarios in your documentation to communicate your architecture to
+stakeholders that are less willing or able to read and understand the
+static models (building block view, deployment view).
+
+**Form**
+
+There are many notations for describing scenarios, e.g.
+
+-   numbered list of steps (in natural language)
+
+-   activity diagrams or flow charts
+
+-   sequence diagrams
+
+-   BPMN or EPCs (event process chains)
+
+-   state machines
+
+-   ...
+
+See [Runtime View](https://docs.arc42.org/section-6/) in the arc42
+documentation.
+
+## Runtime Scenario 1
+
+-   *insert runtime diagram or textual description of the scenario*
+
+-   *insert description of the notable aspects of the interactions
+    between the building block instances depicted in this diagram.*
+
+## Runtime Scenario 2
+
+## ...
+
+## Runtime Scenario n

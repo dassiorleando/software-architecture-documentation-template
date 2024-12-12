@@ -4,16 +4,34 @@ title: Solution Strategy
 
 # Solution Strategy
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx.
+**Contents**
 
-## XXXXXXXXXXX
+A short summary and explanation of the fundamental decisions and
+solution strategies, that shape system architecture. It includes
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+-   technology decisions
 
-## YYYYYYYYYYY
+-   decisions about the top-level decomposition of the system, e.g.
+    usage of an architectural pattern or design pattern
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+-   decisions on how to achieve key quality goals
 
-## ZZZZZZZZZZZZ
+-   relevant organizational decisions, e.g. selecting a development
+    process or delegating certain tasks to third parties.
 
-xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxx xxxxxx.
+**Motivation**
+
+These decisions form the cornerstones for your architecture. They are
+the foundation for many other detailed decisions or implementation
+rules.
+
+**Form**
+
+Keep the explanations of such key decisions short.
+
+Motivate what was decided and why it was decided that way, based upon
+problem statement, quality goals and key constraints. Refer to details
+in the following sections.
+
+See [Solution Strategy](https://docs.arc42.org/section-4/) in the arc42
+documentation.
