@@ -1,6 +1,6 @@
 # Software Architecture Documentation Template
 
-The sample this documentation is based on can be downloaded at [arc42.org](https://github.com/arc42/arc42-template/raw/master/dist/arc42-template-EN-withhelp-html.zip).
+The sample this documentation is based on can be downloaded at [arc42.org](https://arc42.org/download).
 
 ## Capabilities
 
@@ -29,3 +29,8 @@ The sample this documentation is based on can be downloaded at [arc42.org](https
         css/js    # To be used only if you need to customize the site.
         .github   # GitHub Action CI/CD pipeline.
         ...       # Other markdown pages, images and other files.
+
+## TODO
+
+* Fix the GitHub Page link.
+* Generate a PDF version of the software architecture documentation.
