@@ -1,7 +1,8 @@
 # Software Architecture Documentation Template&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://dassiorleando.github.io/software-architecture-documentation-template/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://dassiorleando.github.io/software-architecture-documentation-template/)
 
-
 You can access the generated documentation [here (demo)](https://dassiorleando.github.io/software-architecture-documentation-template/), it's based on a sample you can download at [arc42.org](https://arc42.org/download).
+
+{% include 'diagrams/mermaid-sequence-diagram.md' %}
 
 ## Capabilities
 

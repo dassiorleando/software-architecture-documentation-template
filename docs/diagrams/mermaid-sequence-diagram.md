@@ -1,0 +1,16 @@
+```mermaid
+sequenceDiagram
+    title Sample Mermaid Diagram
+    box Purple Alice & John
+    participant A
+    participant J
+    end
+    box Another Group
+    participant B
+    participant C
+    end
+    A->>J: Hello John, how are you?
+    J->>A: Great!
+    A->>B: Hello Bob, how is Charley?
+    B->>C: Hello Charley, how are you?
+```
